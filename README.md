@@ -33,9 +33,11 @@ I enjoy experimenting with projects, learning new tools, and turning ideas into 
 
 </div>
 ---
+
 ## Currently Exploring
 
 - Python and SQL
 - Data Analysis
 - Machine Learning fundamentals
+
 ---
