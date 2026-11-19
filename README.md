@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**m000n-o00o/m000n-o00o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Sarah Al-Ghamdi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Data > Opinion
+
+`DATA SCIENCE` · `TECHNOLOGY` · `EXPLORATION`
+
+</div>
+
+---
+
+## About
+
+I'm a Data Science student interested in exploring data, technology, and the ideas that connect them.
+
+I enjoy experimenting with projects, learning new tools, and turning ideas into practical work.
+
+## Areas of Interest
+
+- Data Science & Analytics
+- Data Engineering
+- Machine Learning
+- Human-Computer Interaction
+- Technology
+
+---
+
+<div align="center">
+
+`BUILD · EXPLORE · LEARN`
+
+</div>
