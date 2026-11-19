@@ -1,9 +1,11 @@
 
 <div align="center">
 
+<img src="assets/particle-trail-pair.png" width="420" alt="Pixel data trails"/>
+
 # Sarah Al-Ghamdi
 
-<h3>Data &gt; Opinion</h3>
+<h2>Data &gt; Opinion</h2>
 
 <code>DATA SCIENCE</code> &nbsp; <code>TECHNOLOGY</code> &nbsp; <code>EXPLORATION</code>
 
@@ -49,6 +51,8 @@ I enjoy experimenting with projects, learning new tools, and turning ideas into 
 ---
 
 <div align="center">
+
+<img src="assets/grid-tile-96@2x.png" width="192" alt="Pixel grid texture"/>
 
 <code>BUILD / EXPLORE / LEARN</code>
 
