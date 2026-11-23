@@ -1,4 +1,4 @@
-# Hi, I'm Sarah
+<p align="center"><img src="assets/banner.png" width="100%" alt="Sarah Al-Ghamdi"></p>
 
 Data Science student. I like turning data into decisions, and I learn by building and documenting what I learn.
 
