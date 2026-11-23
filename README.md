@@ -8,7 +8,16 @@ Data Science student. I like turning data into decisions, and I learn by buildin
 - **[Data Science from Scratch](https://github.com/m000n-o00o/data-science-from-scratch)**: implementing core data science concepts from scratch in Python while studying Joel Grus's book.
 
 ### Tools
-Python · pandas · TensorFlow / Keras · SQL · Tableau · Git
 
-### Find me
+<p>
+  <img src="https://img.shields.io/badge/Python-161816?style=flat-square&logo=python&logoColor=9bbc0f" alt="Python">
+  <img src="https://img.shields.io/badge/pandas-161816?style=flat-square&logo=pandas&logoColor=9bbc0f" alt="pandas">
+  <img src="https://img.shields.io/badge/TensorFlow-161816?style=flat-square&logo=tensorflow&logoColor=9bbc0f" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-161816?style=flat-square&logo=keras&logoColor=9bbc0f" alt="Keras">
+  <img src="https://img.shields.io/badge/SQL-161816?style=flat-square&logo=mysql&logoColor=9bbc0f" alt="SQL">
+  <img src="https://img.shields.io/badge/Tableau-161816?style=flat-square&logo=tableau&logoColor=9bbc0f" alt="Tableau">
+  <img src="https://img.shields.io/badge/Git-161816?style=flat-square&logo=git&logoColor=9bbc0f" alt="Git">
+</p>
+
+### Contact
 sarah.alghamdi.ds@gmail.com
