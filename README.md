@@ -1,60 +1,14 @@
+# Hi, I'm Sarah
 
-<div align="center">
+Data Science student. I like turning data into decisions, and I learn by building and documenting what I learn.
 
-# Sarah Al-Ghamdi
+### Projects
+- **[ShedLens](https://github.com/m000n-o00o/ShedLens)**: classifying bloodstain pattern mechanisms (gunshot vs. impact) with transfer learning. *In progress.*
+- **[Martian Map](https://github.com/m000n-o00o/martian-map)**: an interactive map that plans a Marswalk route in Jezero Crater, built at NASA Space Apps Challenge 2026. [Live demo](https://m000n-o00o.github.io/martian-map/)
+- **[Data Science from Scratch](https://github.com/m000n-o00o/data-science-from-scratch)**: implementing core data science concepts from scratch in Python while studying Joel Grus's book.
 
-<h2>Data &gt; Opinion</h2>
+### Tools
+Python · pandas · TensorFlow / Keras · SQL · Tableau · Git
 
-<code>DATA SCIENCE</code> &nbsp; · &nbsp; <code>TECHNOLOGY</code> &nbsp; · &nbsp; <code>EXPLORATION</code>
-
-</div>
-
----
-
-<h2 align="center">01 / About</h2>
-
-<p align="center">
-I'm a Data Science student interested in exploring data, technology, and the ideas that connect them.
-</p>
-
-<p align="center">
-I enjoy experimenting with projects, learning new tools, and turning ideas into practical work.
-</p>
-
-<h2 align="center">02 / Areas of Interest</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>DATA</h3>
-      <p>Data Science & Analytics</p>
-      <p>Data Engineering</p>
-      <p>Machine Learning</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>TECHNOLOGY</h3>
-      <p>Human-Computer Interaction</p>
-      <p>Creative Problem Solving</p>
-      <p>Technology Exploration</p>
-    </td>
-  </tr>
-</table>
-
-<h2 align="center">03 / Currently Exploring</h2>
-
-<div align="center">
-
-<code>PYTHON</code> &nbsp;
-<code>SQL</code> &nbsp;
-<code>DATA ANALYSIS</code> &nbsp;
-<code>MACHINE LEARNING</code>
-
-</div>
-
----
-
-<div align="center">
-
-<code>BUILD / EXPLORE / LEARN</code>
-
-</div>
+### Find me
+[Portfolio](https://sarah-alghamdi.pages.dev) · [LinkedIn](https://www.linkedin.com/in/%D8%B3%D8%A7%D8%B1%D9%87-%D8%A7%D9%84%D8%BA%D8%A7%D9%85%D8%AF%D9%8A-sara-al-ghamdi/) · sarah.alghamdi.ds@gmail.com
