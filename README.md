@@ -11,4 +11,4 @@ Data Science student. I like turning data into decisions, and I learn by buildin
 Python · pandas · TensorFlow / Keras · SQL · Tableau · Git
 
 ### Find me
-[Portfolio](https://sarah-alghamdi.pages.dev) · [LinkedIn](https://www.linkedin.com/in/%D8%B3%D8%A7%D8%B1%D9%87-%D8%A7%D9%84%D8%BA%D8%A7%D9%85%D8%AF%D9%8A-sara-al-ghamdi/) · sarah.alghamdi.ds@gmail.com
+sarah.alghamdi.ds@gmail.com
