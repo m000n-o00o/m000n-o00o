@@ -25,3 +25,5 @@ Data Science student. I like turning data into decisions, and I learn by buildin
 
 ### Contact
 sarah.alghamdi.ds@gmail.com
+
+<p align="center"><img src="https://raw.githubusercontent.com/m000n-o00o/m000n-o00o/output/snake.svg" alt="Contribution snake"></p>
