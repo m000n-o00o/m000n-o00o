@@ -9,7 +9,7 @@ Data Science student. I like turning data into decisions, and I learn by buildin
 ### Live projects
 - [Martian Map](https://m000n-o00o.github.io/martian-map/): plan a Marswalk route in Jezero Crater (NASA Space Apps 2026)
 - [Masar Coop](https://m000n-o00o.github.io/masar-coop): a guide for students through the co-op training journey
-- [Haseela](https://m000n-o00o.github.io/haseela/): interactive final-exam prep for my batch, with algorithm visualizers and quizzes
+- [Haseela](https://m000n-o00o.github.io/haseela/): interactive final-exam prep for my batch, with algorithm visualizers and quizzes. Open [template](https://github.com/m000n-o00o/haseela-template) for other majors and universities
 
 ### Tools
 
